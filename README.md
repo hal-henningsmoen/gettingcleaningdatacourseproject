@@ -3,7 +3,7 @@ Getting and Cleaning Data Course Project
 
 ## Running the script
 
-*Preconditions:*  It is assumed you have the original dataset for this project  _Human Activity Recognition Using Smartphones Dataset Version 1.0_  downloaded from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). and unzipped to a folder called "UCI HAR Dataset" located in your working directory.
+*Preconditions:*  It is assumed you have the original dataset for this project  _Human Activity Recognition Using Smartphones Dataset Version 1.0_  downloaded from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzipped to a folder called "UCI HAR Dataset" located in your working directory.
 
 The only script required for processing this data is run_analysis.R.  To process the data call the function run_analysis. Assuming run_analysis.R is in your working directory the code can be run as follows:
 
